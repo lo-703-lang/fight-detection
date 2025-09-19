@@ -1,0 +1,13 @@
+Video Violence Detection Evaluation Report
+==================================================
+Total Frames: 2288
+Accuracy: 0.8475
+Precision: 0.8937
+Recall: 0.4590
+F1 Score: 0.6065
+
+Confusion Matrix:
+True Negative (TN): 1670
+False Positive (FP): 32
+False Negative (FN): 317
+True Positive (TP): 269
